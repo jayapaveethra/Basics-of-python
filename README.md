@@ -4,7 +4,6 @@
 <p> 
 Brushing up with python basics<br>
 <b>Concepts</b>
-<br>
 <li>
 <ul>Keywords</ul>
 <ul>Identifiers</ul>
