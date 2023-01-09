@@ -9,6 +9,8 @@ Brushing up with python basics<br>
 <ul>Identifiers</ul>
 <ul>Comments</ul>
 <ul>Variables</ul>
+<ul>Constants</ul>
+<ul>Literals</ul>
 
 </p>
 </body>
