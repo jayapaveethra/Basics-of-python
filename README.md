@@ -11,7 +11,10 @@ Brushing up with python basics<br>
 <ul>Variables</ul>
 <ul>Constants</ul>
 <ul>Literals</ul>
-
+<ul>Data Types</ul>
+<ul>Type Conversion</ul>
+<ul>Basic Input and Output</ul>
+<ul>Operators</ul>
 </p>
 </body>
 </html>
